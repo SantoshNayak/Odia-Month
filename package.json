@@ -1,0 +1,16 @@
+{
+  "name": "odia-month",
+  "version": "1.1.3",
+  "description": "Send the english month name as parameter and get the odia month name in return",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js",
+    "prepublish": "npm test"
+  },
+  "keywords": [
+    "odia",
+    "month"
+  ],
+  "author": "Santosh Nayak",
+  "license": "MIT"
+}
