@@ -7,3 +7,7 @@ Pass the English month name and it will return you the odia respective month nam
 const monthParser = require('odia-month')
 console.log(monthParser('february')); //ଫେବୃଆରୀ
 ```
+
+# NPM Link
+
+https://www.npmjs.com/package/odia-month
